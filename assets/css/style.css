@@ -1013,6 +1013,9 @@ section .container {
   font-size: 13px;
   color: #fff;
   z-index: 999999;
+
+  /* borrar */
+  visibility: hidden !important;
 }
 @media (max-width: 992px) {
   .credits {
