@@ -1032,3 +1032,24 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
+
+.spacer {
+  margin-top: 3rem;
+}
+
+#mySpan {
+  font-size: 36px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+}
+
+#myLink {
+  float: inline-end;
+  padding-top: 1rem;
+}
+
+.clearfix {
+  clear: both;
+}
